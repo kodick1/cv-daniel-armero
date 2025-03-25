@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Resume from './Resume';
+import Sumary from './Sumary';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Resume />
+    <Sumary />
   </React.StrictMode>
 );
 
