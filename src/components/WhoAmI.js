@@ -18,10 +18,14 @@ const WhoAmI = () => {
           </div>
           <div className="bg-gray-300 shadow-md rounded-lg mb-6 p-4">
             <div className='font-semibold flex gap-4'>
-            <a className='cursor-pointer' onClick={handleClick}>Number: +57 3057194149</a>
-            <a href="mailto:danielarmero32@gmail.com" className="cursor-pointer inline-block">
-            Email: danielarmero32@gmail.com
-                </a>
+            <a className='cursor-pointer' href='tel:+573057194149' onClick={handleClick}>Number: +57 3057194149</a>
+        <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=danielarmero32@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Enviar correo : danielarmero32@gmail.com
+</a>
               </div>
           </div>   
           </div>

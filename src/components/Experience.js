@@ -1,4 +1,3 @@
-{/* Professional Experience  */}
 const Experience = () => {
 
 return (  

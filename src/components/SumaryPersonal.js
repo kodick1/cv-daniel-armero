@@ -1,4 +1,3 @@
-{/* sumary personal */}
 const SumaryPersonal = () => {
 
     return (
@@ -7,7 +6,6 @@ const SumaryPersonal = () => {
             <div className="bg-blue-600 text-white px-4 py-3 rounded-t-lg">
               <h3 className="text-lg font-semibold">Quien Soy</h3>
             </div>
-              {/* Personal Summary */}
             <div className="p-4">
               <p>Soy un estudiante de ingenieria en telematica con actitud y ganas de aprender mas sobre el desarrollo de software, con experiencia de 6 meses en el diseño de sitios web utilizando React.js y Bootstrap. Mi enfoque se centra en desarrollar interfaces de usuario intuitivas y responsivas, optimizadas para proporcionar una experiencia de usuario unica. Además, tengo habilidades en la traducción de contenido y la gestión de la introducción de datos.</p>
             </div>
@@ -16,7 +14,6 @@ const SumaryPersonal = () => {
             <div className="bg-blue-600 text-white px-4 py-3 rounded-t-lg">
               <h3 className="text-lg font-semibold">Programas</h3>
             </div>
-               {/* Skills */}
                <div className="p-4 flex gap-4 flex-wrap">
   <p className="px-2 py-2 bg-red-500 text-white rounded-lg shadow-md hover:bg-red-600 cursor-pointer">GIT</p>
   <p className="px-2 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 cursor-pointer">MySQL</p>

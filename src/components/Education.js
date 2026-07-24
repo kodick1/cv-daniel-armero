@@ -1,4 +1,3 @@
-{/* Education */}
 const Education = () => {
 
     return (
