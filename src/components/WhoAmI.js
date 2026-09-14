@@ -8,11 +8,7 @@ const WhoAmI = () => {
     return (
         <div>
         <div className='mb-3 flex items-center shadow-md rounded-lg gap-4 p-4'>
-          <img 
-            src="/api/placeholder/200/200" 
-            alt="Profile" 
-            className="text-center rounded-full mx-auto  shadow-md" 
-          />
+        
           <h2 className="text-xl font-bold">Daniel Eduardo Armero Muñoz  </h2>
           <p className="text-gray-600">Tecnólogo en sistematización de datos</p>
           </div>
