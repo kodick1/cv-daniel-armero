@@ -6,7 +6,7 @@ return (
       <h3 className="text-lg font-semibold">Experiencia Profesional</h3>
     </div>
      <div className="p-4">
-        <h4 className="font-bold">Vidrio Andino S.A.S</h4>
+        <h4 className="font-bold">Vidrio Andino S.A.S Practicante de Innovación</h4>
         <p className="text-gray-600 text-sm">Junio 2025 - Diciembre 2025 | Soacha, Colombia</p>
         <ul className="list-disc list-inside text-sm">
           <li>Creación powerApps, PowerAutomate y Dashboards en PowerBi</li>
@@ -23,7 +23,7 @@ return (
         </ul>        
     </div> 
     <div className="p-4">
-        <h4 className="font-bold">Tivit S.A.S</h4>
+        <h4 className="font-bold">Tivit S.A.S - Analista de mesa de ayuda</h4>
         <p className="text-gray-600 text-sm">Febrero 2019 - Enero 2020| Bogotá, Colombia</p>
         <ul className="list-disc list-inside text-sm">
           <li>Soporte tecnico vía remota para aplicativos de las filiales de epm</li>
@@ -31,7 +31,7 @@ return (
         </ul>
     </div>
     <div className="p-4 ">
-        <h4 className="font-bold">Colombian Outsourcing Solutions</h4>
+        <h4 className="font-bold">Colombian Outsourcing Solutions - Ingeniero de Soporte</h4>
         <p className="text-gray-600 text-sm">Noviembre 2016 - Abril 2018 | Bogotá, Colombia</p>
         <ul className="list-disc list-inside text-sm">
           <li>Soporte técnico vía remota a la red móvil de claro</li>
