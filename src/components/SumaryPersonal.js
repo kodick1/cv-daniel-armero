@@ -7,7 +7,7 @@ const SumaryPersonal = () => {
               <h3 className="text-lg font-semibold">Quien Soy</h3>
             </div>
             <div className="p-4">
-              <p>Soy un estudiante de ingenieria en telematica con actitud y ganas de aprender mas sobre el desarrollo de software, con experiencia de 6 meses en el diseño de sitios web utilizando React.js y Bootstrap. Mi enfoque se centra en desarrollar interfaces de usuario intuitivas y responsivas, optimizadas para proporcionar una experiencia de usuario unica. Además, tengo habilidades en la traducción de contenido y la gestión de la introducción de datos.</p>
+              <p>Estudiante de noveno semestre de Ingeniería Telemática, con experiencia como Analista de Datos y en desarrollo frontend con React.js y Bootstrap. Interesado en el desarrollo de software, con habilidades en análisis de datos, desarrollo de interfaces web responsivas y resolución de problemas. Destaco por mi capacidad de aprendizaje, adaptación y trabajo orientado a resultados.</p>
             </div>
           </div>
           <div className="bg-white shadow-md rounded-lg mb-6">
